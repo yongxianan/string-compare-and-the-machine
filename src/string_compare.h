@@ -1,0 +1,5 @@
+#ifndef _STRING_COMPARE_H
+#define _STRING_COMPARE_H
+
+
+#endif // _STRING_COMPARE_H
